@@ -1,2 +1,2 @@
-# Introduction_DataAnalysis
+# Introduction into Data Analysis
 Анализ и визуализация данных в Python

@@ -1,2 +1,2 @@
-# Introduction_DA
-Модули по анализу данных в Python
+# Introduction_DataAnalysis
+Анализ и визуализация данных в Python
